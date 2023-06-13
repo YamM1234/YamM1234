@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Yam Mangalili
-- 👀 I’m interested in Game Development, Machine Learning, Cyber Securiti
-- 🌱 I’m currently learning Unity and creating games
-- 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me: yammangalili@ymail.com
 
 <!---
